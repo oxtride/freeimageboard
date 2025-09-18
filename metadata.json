@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Imageboard",
+  "description": "A modern imageboard forum inspired by classic sites like 4chan, powered by React and Tailwind CSS. Features AI image generation using the Gemini API for posts.",
+  "requestFramePermissions": []
+}
